@@ -1,7 +1,7 @@
 import numpy as np; 
 import math as mt; 
 
-num_splines = 10; 
+num_splines = 2; 
 
 x_values = np.linspace(0, 2, num = num_splines * 2 + 1); 
 
